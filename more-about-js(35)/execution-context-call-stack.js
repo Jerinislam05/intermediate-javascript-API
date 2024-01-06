@@ -12,6 +12,4 @@
 
 5. The execution context is created in two phases: 
 ->Creation phase and ->Execution phase.
-
-6.
 */
