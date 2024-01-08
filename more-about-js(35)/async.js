@@ -11,6 +11,7 @@ function doSomething() {
     console.log(3);
 }
 
+
 // Single-Threaded
 /* 
 1. single threaded means only one statement is executed at a time.
